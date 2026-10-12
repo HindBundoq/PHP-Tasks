@@ -1,0 +1,13 @@
+# Orange Restricted material - stays local, never pushed
+*.pdf
+class live code/
+
+# Windows / editors
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# scratch
+*.log
